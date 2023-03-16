@@ -1,24 +1,36 @@
-# README
+# Inscribe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Project description
 
-Things you may want to cover:
+- Inscribe is a blogging website where users get to manage and share thier blogs. 
 
-* Ruby version
 
-* System dependencies
+## Core Deliverables
 
-* Configuration
+As a user, I can:
 
-* Database creation
+ 1. View all blog posts in the home page.
+ 2. View a single blog and its details.
+ 3. Update an existing blog
+ 4. Delete an exiting blog
+ 5. Add new blogs
 
-* Database initialization
 
-* How to run the test suite
+## Project setup
 
-* Services (job queues, cache servers, search engines, etc.)
+After unbundling the project:
 
-* Deployment instructions
+1. Open two separate terminals; run `npm start --prefix client` and `rails s` respectively.
 
-* ...
+## Authors
+
+John Okari.
+ex. John Okari
+
+Live github link: https://github.com/JohnOkari/blog-app
+ 
+## Licence
+MIT License
+
+Copyright (c) [2023] [John Okari]
+
