@@ -1,0 +1,95 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "TYPESCRIPT",
+      "content": "The most widely used lightweight interpreted compiled programming language in the world is JavaScript. It is often referred to as web page scripting language. It is widely used in non-browser situations and is well known for web page building. JavaScript is a scripting language that may be used for both client-side and server-side development.",
+      "writer": "Johnlist",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/coa-gate-2022-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Data Structure",
+      "content": "These are numerous instances of a stack in real life. Take the canteen's plate stacking arrangement as an illustration. The plate that is placed in the bottom-most position stays in the stack for the greatest amount of time since the plate at the top is the first one to be taken out. So, it is clear that it follows the LIFO/FILO (First In, Last Out) order.",
+      "writer": "Nishant Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Algorithm",
+      "content": "A technique or group of guidelines that must be followed when performing calculations or other problem-solving actions is what the word algorithm signifies. As a result, an algorithm is a series of guidelines or instructions that specify how a task is to be carried out in order to produce the desired results step-by-step.",
+      "writer": "Suresh Kr",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Computer Network",
+      "content": "A network of various hardware units, usually referred to as hosts, that are connected via various channels in order to transfer and receive data media Network devices, which include things like routers, switches, hubs, and bridges, are another type of device that can be used in computer networks to facilitate communication between two different types of equipment.",
+      "writer": "Sonu Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "JAVASCRIPT",
+      "content": "The most widely used lightweight interpreted compiled programming language in the world is JavaScript. It is often referred to as web page scripting language. It is widely used in non-browser situations and is well known for web page building. JavaScript is a scripting language that may be used for both client-side and server-side development.",
+      "writer": "Johnlist",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/coa-gate-2022-thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Data Structure",
+      "content": "These are numerous instances of a stack in real life. Take the canteen's plate stacking arrangement as an illustration. The plate that is placed in the bottom-most position stays in the stack for the greatest amount of time since the plate at the top is the first one to be taken out. So, it is clear that it follows the LIFO/FILO (First In, Last Out) order.",
+      "writer": "Nishant Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Algorithm",
+      "content": "A technique or group of guidelines that must be followed when performing calculations or other problem-solving actions is what the word algorithm signifies. As a result, an algorithm is a series of guidelines or instructions that specify how a task is to be carried out in order to produce the desired results step-by-step.",
+      "writer": "Suresh Kr",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "JAVASCRIPT",
+      "content": "The most widely used lightweight interpreted compiled programming language in the world is JavaScript. It is often referred to as web page scripting language. It is widely used in non-browser situations and is well known for web page building. JavaScript is a scripting language that may be used for both client-side and server-side development.",
+      "writer": "Johnlist",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/coa-gate-2022-thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "Data Structure",
+      "content": "These are numerous instances of a stack in real life. Take the canteen's plate stacking arrangement as an illustration. The plate that is placed in the bottom-most position stays in the stack for the greatest amount of time since the plate at the top is the first one to be taken out. So, it is clear that it follows the LIFO/FILO (First In, Last Out) order.",
+      "writer": "Nishant Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Algorithm",
+      "content": "A technique or group of guidelines that must be followed when performing calculations or other problem-solving actions is what the word algorithm signifies. As a result, an algorithm is a series of guidelines or instructions that specify how a task is to be carried out in order to produce the desired results step-by-step.",
+      "writer": "Suresh Kr",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png"
+    },
+    {
+      "id": 11,
+      "title": "Computer Network",
+      "content": "A network of various hardware units, usually referred to as hosts, that are connected via various channels in order to transfer and receive data media Network devices, which include things like routers, switches, hubs, and bridges, are another type of device that can be used in computer networks to facilitate communication between two different types of equipment.",
+      "writer": "Sonu Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Computer Network",
+      "content": "A network of various hardware units, usually referred to as hosts, that are connected via various channels in order to transfer and receive data media Network devices, which include things like routers, switches, hubs, and bridges, are another type of device that can be used in computer networks to facilitate communication between two different types of equipment.",
+      "writer": "Sonu Singh",
+      "image": "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png"
+    },
+    {
+      "title": "GPT",
+      "image": "https://pbs.twimg.com/profile_images/1419970556410175493/09Dc_nul_400x400.jpg",
+      "content": "This code appears to be written in JSX, which is a syntax extension for JavaScript and used in React to describe the structure of user interface components.\n\nThe code defines a component called \"top\" which contains a logo (\"Inscribe\") and three div elements with class names \"topLeft\", \"topCenter\", and \"topRight\".\n\nThe \"topLeft\" div contains four social media icons, which are FontAwesome icons for Twitter, LinkedIn, Facebook, and Instagram.\n\nThe \"topCenter\" div contains an unordered list with two list items, both of which are links. One link points to the home page (\"/\") and the other points to a page for writing content (\"/write\").\n\nThe \"topRight\" div contains an image element with a source attribute that points to a profile picture. The alt attribute is empty, which means there is no alternative text provided for the image.",
+      "author": "qsdfc",
+      "id": 13
+    }
+  ]
+}

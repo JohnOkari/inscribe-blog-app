@@ -1,0 +1,66 @@
+.blog-post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.blog-title {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+.blog-image {
+  max-width: 400px;
+  margin-bottom: 1rem;
+}
+
+.blog-content {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.blog-author {
+  font-size: 1rem;
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+.blog-actions {
+  display: flex;
+  justify-content: space-evenly ;
+  margin-top: 2rem;
+}
+
+.blog-edit-button, 
+.blog-delete-button {
+  padding: 0.5rem 1rem;
+  margin-left: 100%;
+  font-size: 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.blog-edit-button:hover{
+  background-color: #388e3c;
+} 
+
+
+.blog-delete-button:hover {
+  background-color: #ff0000;
+}
+
+.blog-edit-link {
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .blog-image {
+    max-width: 100%;
+  }
+}
