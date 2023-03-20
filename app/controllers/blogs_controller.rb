@@ -14,9 +14,14 @@ class BlogsController < ApplicationController
 
   # create blog
       def create
-        blog = Blog.create(blog_params)
-        render json: blog, status: :created
+        blog = Blog.new(blog_params)
+        if blog.save
+          render json: blog, status: :created
+        else
+          render json: { errors: blog.errors.full_messages }, status: :unprocessable_entity
+        end
       end
+  
     
   # update blog
       def update
@@ -36,6 +41,6 @@ class BlogsController < ApplicationController
       private
       
       def blog_params
-        params.permit(:title, :content, :writer, :image, :author_id)
+        params.permit(:title, :image, :content, :writer)
       end
 end
